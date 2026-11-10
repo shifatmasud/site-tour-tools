@@ -1,0 +1,20 @@
+# Recordings and run output
+*.mp4
+*.webm
+*.mov
+*.png
+*.jpg
+*.gray
+*.log
+*.mbtree
+site-tour-runs/
+rec/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and local settings
+.env
+*.key
